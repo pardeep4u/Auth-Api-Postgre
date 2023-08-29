@@ -10,7 +10,7 @@ Welcome to the Authentication API documentation. This API provides endpoints for
 
 ## Base URL
 
-The base URL for all API endpoints is `http://localhost:3050/api/`.
+The base URL for all API endpoints is `https://vast-red-ladybug-tux.cyclic.app/api`.
 
 ## Endpoints
 
